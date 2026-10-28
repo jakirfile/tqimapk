@@ -1,7 +1,7 @@
 {
     "versionCode":  1,
-    "versionName":  "1.2",
-    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/mqimapp/main/app-debug-cb5fa87eee201dee25fd2cf2ba5cedc8966ec45159ae6ae826f1455dd6b8fb76.apk",
+    "versionName":  "1.0",
+    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/mqimapp/main/app-debug-6224a7cf570487129dc9fac7113203ce97e72d58c0b5de592a9956d4647e6b4a.apk",
     "apkFileName":  "app-debug.apk",
-    "sha256":  "cb5fa87eee201dee25fd2cf2ba5cedc8966ec45159ae6ae826f1455dd6b8fb76"
+    "sha256":  "6224a7cf570487129dc9fac7113203ce97e72d58c0b5de592a9956d4647e6b4a"
 }
