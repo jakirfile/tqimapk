@@ -1,7 +1,8 @@
 {
     "versionCode":  1,
     "versionName":  "1.0",
-    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/tqimapp/main/app-debug-9c8524d765c3f5dfb335db447e5b1364693eacc3d5270faef5133fea22cc63b0.apk",
+    "applicationId":  "com.ijtc.tqimapk",
+    "apkUrl":  "https://raw.githubusercontent.com/jakirfile/tqimapk/main/app-debug-c9971fa986d2bdbe0a2d3ac63d6d13a27182d65fb9a803a96238b2c1e5357f2a.apk",
     "apkFileName":  "app-debug.apk",
-    "sha256":  "9c8524d765c3f5dfb335db447e5b1364693eacc3d5270faef5133fea22cc63b0"
+    "sha256":  "c9971fa986d2bdbe0a2d3ac63d6d13a27182d65fb9a803a96238b2c1e5357f2a"
 }
